@@ -18,7 +18,7 @@
     "react-scripts": "3.4.0",
     "react-to-print": "^2.5.1",
     "tachyons": "^4.11.1",
-    "validator": "^12.2.0"
+    "validator": "^13.7.0"
   },
   "scripts": {
     "start": "env-cmd -f src/config/config.env react-scripts start",
